@@ -1,4 +1,3 @@
-
 """Taller Presencial Evaluable"""
 
 import os
